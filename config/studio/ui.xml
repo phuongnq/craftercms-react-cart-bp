@@ -40,7 +40,7 @@
 						<id>Products</id>
 						<label>Products</label>
 						<icon id="@mui/icons-material/DescriptionOutlined"/>
-						<rootPath>/site</rootPath>
+						<rootPath>/site/products</rootPath>
 						<locale>en</locale>
 					</configuration>
 				</widget>
