@@ -11,8 +11,8 @@
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
 	<paths>
-        <includes>
-            <pattern>^/site/products/.*</pattern>
-        </includes>
-    </paths>
+		<includes>
+			<pattern>^/site/products/.*</pattern>
+		</includes>
+	</paths>
 </content-type>
