@@ -12,7 +12,7 @@
   <sku_s>39876704341265610</sku_s>
   <title_s>Basic Cactus White T-shirt</title_s>
   <installments_s><![CDATA[4]]></installments_s>
-  <price_s>13.25</price_s>
+  <price_s><![CDATA[13.55]]></price_s>
   <freeShipping_s>true</freeShipping_s>
   <description_t>Basic Cactus White T-shirt</description_t>
   <sizes_o>
@@ -44,7 +44,7 @@
   <createdDate>2022-07-27T09:38:26.608Z</createdDate>
   <createdDate_dt>2022-07-27T09:38:26.608Z</createdDate_dt>
   <lastModifiedDate>2022-07-28T01:59:21.723Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-07-28T08:31:34.590Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-07-28T08:37:03.827Z</lastModifiedDate_dt>
   <largeImage_s>/static-assets/products/images/39876704341265610_1.jpg</largeImage_s>
   <smallImage_s>/static-assets/products/images/39876704341265610_2.jpg</smallImage_s>
 </component>
