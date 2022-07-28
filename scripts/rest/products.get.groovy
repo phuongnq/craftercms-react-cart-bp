@@ -31,7 +31,9 @@ elasticResults.eachWithIndex { document, idx ->
                     currencyFormat: "\$",   // hard code currency format for now
                     largeImage:     document.largeImage_s,
                     smallImage:     document.smallImage_s,
-                    descriptor: document
+                    descriptor: [
+                        component: document    
+                    ]
                   ]
     
 	result.products.add(product)
