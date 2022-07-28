@@ -443,7 +443,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>productImages</value>
+							<value>productImages,exisingImages</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -491,7 +491,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>productImages</value>
+							<value>productImages,exisingImages</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -544,6 +544,24 @@
 							<name>repoPath</name>
 							<value>/static-assets/products/images</value>
 								<type>content-path-input</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-repository-upload</type>
+					<id>exisingImages</id>
+					<title>Exising Images</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/products/images</value>
+								<type>content-path-input</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
+								<type>boolean</type>
 						</property>
 					</properties>
 				</datasource>
