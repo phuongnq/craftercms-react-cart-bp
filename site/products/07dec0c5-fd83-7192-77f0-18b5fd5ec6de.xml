@@ -1,37 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/product</content-type>
-	<display-template/>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>07de</objectGroupId>
-	<objectId>07dec0c5-fd83-7192-77f0-18b5fd5ec6de</objectId>
-	<file-name>07dec0c5-fd83-7192-77f0-18b5fd5ec6de.xml</file-name>
-	<folder-name/>
-	<internal-name>Basic Cactus White T-shirt</internal-name>
-	<sku_s>39876704341265610</sku_s>
-	<title_s>Basic Cactus White T-shirt</title_s>
-	<installments_s>4</installments_s>
-	<price_s>13.45</price_s>
-	<freeShipping_s>true</freeShipping_s>
-	<description_t>Basic Cactus White T-shirt</description_t>
-	<sizes_o>	<item>	<key>XS</key>
-	<value_smv>XS</value_smv>
-	</item>	<item>	<key>M</key>
-	<value_smv>M</value_smv>
-	</item>	<item>	<key>XL</key>
-	<value_smv>XL</value_smv>
-	</item>	<item>	<key>XXL</key>
-	<value_smv>XXL</value_smv>
-	</item>	<item>	<key>L</key>
-	<value_smv>L</value_smv>
-	</item>	<item>	<key>S</key>
-	<value_smv>S</value_smv>
-	</item></sizes_o>
-	<createdDate>2022-07-27T09:38:26.608Z</createdDate>
-	<createdDate_dt>2022-07-27T09:38:26.608Z</createdDate_dt>
-	<lastModifiedDate>2022-07-28T08:38:12.831Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-07-28T08:38:12.831Z</lastModifiedDate_dt>
-	<largeImage_s>/static-assets/products/images/39876704341265610_1.jpg</largeImage_s>
-	<smallImage_s>/static-assets/products/images/39876704341265610_2.jpg</smallImage_s>
+  <content-type>/component/product</content-type>
+  <display-template/>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <objectGroupId>07de</objectGroupId>
+  <objectId>07dec0c5-fd83-7192-77f0-18b5fd5ec6de</objectId>
+  <file-name>07dec0c5-fd83-7192-77f0-18b5fd5ec6de.xml</file-name>
+  <folder-name/>
+  <internal-name>Basic Cactus White T-shirt</internal-name>
+  <sku_s>39876704341265610</sku_s>
+  <title_s>Basic Cactus White T-shirt</title_s>
+  <installments_s>4</installments_s>
+  <price_s><![CDATA[13.35]]></price_s>
+  <freeShipping_s>true</freeShipping_s>
+  <description_t>Basic Cactus White T-shirt</description_t>
+  <sizes_o>
+    <item>
+      <key>XS</key>
+      <value_smv>XS</value_smv>
+    </item>
+    <item>
+      <key>M</key>
+      <value_smv>M</value_smv>
+    </item>
+    <item>
+      <key>XL</key>
+      <value_smv>XL</value_smv>
+    </item>
+    <item>
+      <key>XXL</key>
+      <value_smv>XXL</value_smv>
+    </item>
+    <item>
+      <key>L</key>
+      <value_smv>L</value_smv>
+    </item>
+    <item>
+      <key>S</key>
+      <value_smv>S</value_smv>
+    </item>
+  </sizes_o>
+  <createdDate>2022-07-27T09:38:26.608Z</createdDate>
+  <createdDate_dt>2022-07-27T09:38:26.608Z</createdDate_dt>
+  <lastModifiedDate>2022-07-28T08:38:12.831Z</lastModifiedDate>
+  <lastModifiedDate_dt>2022-07-28T08:55:29.268Z</lastModifiedDate_dt>
+  <largeImage_s>/static-assets/products/images/39876704341265610_1.jpg</largeImage_s>
+  <smallImage_s>/static-assets/products/images/39876704341265610_2.jpg</smallImage_s>
 </component>
